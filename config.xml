@@ -13,7 +13,7 @@ Para grandes compradores especialmente seleccionados.
 <preference name="phonegap-version" value="2.9.0" />
 <preference name="orientation" value="portrait" />
 <preference name="fullscreen" value="true" />
-<icon src="img/icon_grande.png" />
+<icon src="img/icon_grande.jpg" />
 <gap:splash src="img/splashok.png" />
 <preference name="splash-screen-duration" value="5000" />
 <preference name="exit-on-suspend" value="true" />
