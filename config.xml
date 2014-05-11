@@ -13,6 +13,6 @@
 		<preference name="Fullscreen" value="true" />
 		<preference name="Orientation" value="default" />
 		<preference name="DisallowOverscroll" value="true"/>
-		<icon src="img/logo_r100_central_inicio.png" />
+		<icon src="img/icon_grande.png" />
 		<rim:splash src="img/splashok.png" />
     </widget>
